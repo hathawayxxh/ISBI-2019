@@ -1,7 +1,6 @@
-# ISBI-2019
-code for paper ISBI-2019
-Title:
-A SALIENCY-AWARE HYBRID DENSE NETWORK FOR BLEEDING DETECTION IN WIRELESS CAPSULE ENDOSCOPY IMAGES.
+# A SALIENCY-AWARE HYBRID DENSE NETWORK FOR BLEEDING DETECTION IN WIRELESS CAPSULE ENDOSCOPY IMAGES.
+by Xiaohan Xing, Yixuan Yuan, Xiao Jia, Max Q.-H. Meng.
+
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8759401
 
 The method is shown in this figure:
